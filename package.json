@@ -1,0 +1,22 @@
+{
+  "name": "poker-face",
+  "version": "0.0.0",
+  "description": "Read and make bets using real-time camera AI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1sward/Poker-Face.git"
+  },
+  "keywords": [
+    "poker"
+  ],
+  "author": "Izzy Barter, Eitan Alperstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1sward/Poker-Face/issues"
+  },
+  "homepage": "https://github.com/1sward/Poker-Face#readme"
+}
